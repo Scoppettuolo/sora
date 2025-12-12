@@ -1,7 +1,7 @@
 Sora
 ======================
 
-Installation
+Requerimientos
 ------------
 
 - Requiere Seven.
