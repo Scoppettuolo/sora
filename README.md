@@ -4,6 +4,12 @@ Sora
 Installation
 ------------
 
+- Requiere Seven.
+
+
+Installation
+------------
+
 - Install this theme using the official Backdrop CMS instructions at
   https://backdropcms.org/guide/themes
 
